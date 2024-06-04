@@ -1,0 +1,26 @@
+.logoImg{
+    height: 50px;
+    margin-top: 10px;
+}
+nav{
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    max-width: 1300px;
+    margin: 20px auto;
+    align-items: center;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 24px;
+}
+button{
+    all:unset;
+    color: white;
+    background-color: black;
+    padding: 6px 16px;
+    height: 32px;
+    font-weight: 500;
+    border-radius: 10px;
+}

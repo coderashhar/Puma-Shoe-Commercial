@@ -1,0 +1,39 @@
+main{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px;
+}
+h1{
+    font-size:60px;
+    text-align: center;
+    
+}
+img{
+    height: 500px;
+    border-radius: 10px;
+    
+}
+p{
+    font-size: 25px;
+    text-align: center;
+}
+.ecomm>p{
+    font-size: 20px;
+    color: gray;
+    margin-bottom: 5px;
+    margin-top: 60px;
+}
+.ecomm>img{ 
+    width: 60px;
+    height: 40px;
+    gap: 5px;
+}
+.shopNow-Category{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-top: auto;
+} 
+.flipkart{
+    margin-left: 190px;
+}
